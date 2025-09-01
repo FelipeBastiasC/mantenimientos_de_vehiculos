@@ -27,12 +27,12 @@ Se desarrolló un dashboard interactivo en Power BI que consolida y visualiza lo
 ### Vista General del Dashboard
 *(La página principal ofrece un resumen ejecutivo del estado de la flota, destacando los KPIs más importantes y los vehículos que requieren atención inmediata.)*
 
-![Vista General del Dashboard](images/Pagina 1.png)
+![Vista General del Dashboard](images/Pagina1.png)
 
 ### Análisis de Mantenimiento y Condición
 *(Esta sección permite un análisis más profundo sobre la condición de los componentes y la relación entre el historial de mantenimiento y los problemas actuales.)*
 
-![Vista de Mantenimiento](images/Pagina 2.png)
+![Vista de Mantenimiento](images/Pagina2.png)
 
 ---
 
